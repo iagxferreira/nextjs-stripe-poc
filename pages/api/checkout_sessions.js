@@ -12,7 +12,7 @@ export default async function handler(req, res) {
       line_items: [
         {
           price: "price_1KiAkVJt9QmtvUrp5R90Cuef",
-          quantity: 5,
+          quantity: 1,
         },
       ],
       mode: "payment",
